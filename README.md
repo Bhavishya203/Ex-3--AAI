@@ -1,4 +1,4 @@
-<H3>NAME:Bhavishya Reddy Mitta B</H3>
+<H3>NAME:Bhavishya Reddy Mitta </H3>
 <H3>REGISTER NO:212221230061</H3>
 <H3>EX.NO:3</H3>
 <H3>DATE:3/03/2024</H3>
